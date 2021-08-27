@@ -1,0 +1,96 @@
+.torokumsg{
+    color: red;
+    text-align: center;
+    font-size:35px;
+}
+body{
+    background-color:MediumTurquoise;
+}
+h1{
+    text-align:center;
+    color:Blue;
+}
+h3{
+    text-align: center;
+    color: red;
+}
+
+hr{
+    width:80%;
+}
+.container{
+    width:1600px;
+    margin: 0 auto;
+    margin-bottom:100px;
+}
+.container .iframeclass{
+    width:400px;
+    float:left;
+}	
+.container .container-left{
+    width:400px;
+    float:left;
+
+}
+.container .container-center{
+    width:400px;
+    float:left;
+
+}
+.container .container-right{
+    width:400px;
+    float:left;
+
+}	
+.containerbtn{
+    float:left;
+    margin-left:410px;
+}
+.backbtn{
+    width:80px;
+    height:40px;
+    border-radius:10px;
+    background-color:LightGreen;
+    cursor:pointer;
+    display:block;
+    margin-left: 960px;
+    margin-top: -40px;
+}
+.torokubtn{
+    width:80px;
+    height:40px;
+    border-radius:10px;
+    background-color:LightGreen;
+    cursor:pointer;
+    display:block;
+    margin-top: 20px;
+}
+.input-class{
+    width:250px;
+    height:40px;
+    margin-top: 10px;
+    margin:10px;
+    margin-left: 10px;
+}
+.left-style{
+    background:DarkGray
+}
+input{
+    display:block;
+    width: 250px;
+    height: 35px;
+    border: outset;
+    border-radius: 8px;
+}
+label{
+    width:250px;
+    height: 25px;
+    margin-bottom:-10px;
+    margin-left: 10px;
+    background-color:orange;
+    border-radius: 6px;
+    display: block;
+}
+table{
+    display:none;
+}

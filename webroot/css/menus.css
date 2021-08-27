@@ -1,0 +1,53 @@
+body,html{
+    height: 100%; /*footerがbootomに存在*/
+}
+body {
+    margin: 0;
+}
+
+h5,ul{
+    margin:0;/*footerがbootmに固定,footerの中にh5がある為*/
+}
+.menu{
+    width:100%;
+    background-color:midnightblue;
+    height: 50px;
+    min-width: 1500px;/*広さmin*/
+}
+.menu ul{
+    margin: 0px;
+    padding: 0px;
+}
+.menu ul li{
+    list-style: none;
+    float:left; 
+}
+.menu ul li a{
+    text-decoration:none;
+    display:block;
+    height: 50px;
+    line-height:50px;
+    color:whitesmoke;
+    padding: 0px 30px 0px 30px;
+    border-right:1px solid mintcream;
+}
+.logout{
+    float:right;
+}
+
+.footer{
+    width:100%;
+    background-color:midnightblue;
+    height: 50px;
+    min-width: 1500px;/*広さmin*/
+}
+.footer li{
+    list-style: none;
+    color:whitesmoke;
+    height: 50px;
+    line-height:50px;
+}
+
+
+
+

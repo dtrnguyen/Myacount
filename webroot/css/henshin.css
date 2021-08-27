@@ -1,0 +1,87 @@
+body{
+    background-color:MediumTurquoise;
+}
+h1{
+    text-align:center;
+    color:Blue;
+}
+h3{
+    color:red;
+    text-align:center;
+    font-size: 35px;
+
+}
+hr{
+    width:80%;
+}
+.container{
+    width:1500px;
+    margin: 0 auto;
+    margin-bottom:100px;
+}
+.container .container-left{
+    width:500px;
+    float:left;
+}
+.container .container-center{
+    width:500px;
+    float:left;
+
+}
+.container .container-right{
+    width:500px;
+    float:left;
+
+}
+.backbtn{
+    width:80px;
+    height:40px;
+    border-radius:10px;
+    background-color:LightGreen;
+    cursor:pointer;
+    display: block;
+    margin-top: 10px;
+    margin-left: 1070px;
+}
+.koshinbtn{
+    width:80px;
+    height:40px;
+    border-radius:10px;
+    background-color:LightGreen;
+    cursor:pointer;
+}
+.input-class{
+    border-radius:10px;
+}
+.left-style{
+    display:block;
+    width:250px;
+    height:35px;
+    margin:10px;
+    background-color: Darkgray;
+}
+input{
+    display:block;
+    border: outset;
+    width: 250px;
+    height: 35px;
+    margin:10px;
+}
+label{
+    width:250px;
+    height: 25px;
+    margin-bottom:-10px;
+    margin-left: 10px;
+    background-color:orange;
+    border-radius: 6px;
+    display: block;
+}
+.container-btn{
+    display: flex;
+    margin:0 auto;
+    position: absolute;
+    margin-top: 460px;
+}
+table{
+    display: none;
+}

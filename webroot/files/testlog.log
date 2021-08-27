@@ -1,0 +1,175 @@
+2020-10-09 16:47:32 Error: 2020/10/09 16:47:32
+2020-10-09 16:47:32 Error: エラー状態
+2020-10-09 16:47:32 Error: test massege
+2020-10-09 16:47:38 Error: 2020/10/09 16:47:38
+2020-10-09 16:47:38 Error: エラー状態
+2020-10-09 16:47:38 Error: test massege
+2020-10-09 16:49:19 Error: 2020/10/09 16:49:19
+2020-10-09 16:49:19 Error: エラー状態
+2020-10-09 16:49:19 Error: test massege
+2020-10-09 16:49:47 Error: [Cake\Http\Exception\MissingControllerException] Controller class Css could not be found. in C:\xampp-new\htdocs\Myacount\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 158
+Stack Trace:
+- C:\xampp-new\htdocs\Myacount\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:46
+- C:\xampp-new\htdocs\Myacount\vendor\cakephp\cakephp\src\Http\BaseApplication.php:249
+- C:\xampp-new\htdocs\Myacount\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\xampp-new\htdocs\Myacount\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:156
+- C:\xampp-new\htdocs\Myacount\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp-new\htdocs\Myacount\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:159
+- C:\xampp-new\htdocs\Myacount\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp-new\htdocs\Myacount\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:166
+- C:\xampp-new\htdocs\Myacount\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp-new\htdocs\Myacount\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp-new\htdocs\Myacount\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp-new\htdocs\Myacount\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:121
+- C:\xampp-new\htdocs\Myacount\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp-new\htdocs\Myacount\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\xampp-new\htdocs\Myacount\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp-new\htdocs\Myacount\webroot\index.php:40
+
+Request URL: /css/userichirans.css
+Referer URL: http://localhost/Myacount/Users
+
+
+2020-10-09 16:49:54 Error: logout success by userID:test
+2020-10-09 16:50:08 Error: login success with userID:Merian
+2020-10-09 16:50:08 Error: 2020/10/09 16:50:08
+2020-10-09 16:50:08 Error: エラー状態
+2020-10-09 16:50:08 Error: test massege
+2020-10-09 16:53:40 Error: 2020/10/09 16:53:40
+2020-10-09 16:53:40 Error: エラー状態
+2020-10-09 16:54:46 Error: 2020/10/09 16:54:46
+2020-10-09 16:54:46 Error: エラー状態
+2020-10-09 16:54:51 Error: 2020/10/09 16:54:51
+2020-10-09 16:54:51 Error: エラー状態
+2020-10-09 16:57:09 Error: 2020/10/09 16:57:09
+2020-10-09 16:57:09 Error: エラー状態
+2020-10-09 16:57:34 Error: this is debug
+2020-10-09 16:57:34 Error: 2020/10/09 16:57:34
+2020-10-09 16:57:34 Error: エラー状態
+2020-10-09 16:57:54 Error: [InvalidArgumentException] Invalid log level `testlog` in C:\xampp-new\htdocs\Myacount\vendor\cakephp\cakephp\src\Log\Log.php on line 363
+Stack Trace:
+- C:\xampp-new\htdocs\Myacount\src\Controller\ButsuryucentersController.php:36
+- C:\xampp-new\htdocs\Myacount\vendor\cakephp\cakephp\src\Controller\Controller.php:529
+- C:\xampp-new\htdocs\Myacount\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:79
+- C:\xampp-new\htdocs\Myacount\vendor\cakephp\cakephp\src\Http\BaseApplication.php:251
+- C:\xampp-new\htdocs\Myacount\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\xampp-new\htdocs\Myacount\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:156
+- C:\xampp-new\htdocs\Myacount\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp-new\htdocs\Myacount\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:164
+- C:\xampp-new\htdocs\Myacount\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp-new\htdocs\Myacount\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:166
+- C:\xampp-new\htdocs\Myacount\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp-new\htdocs\Myacount\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\xampp-new\htdocs\Myacount\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp-new\htdocs\Myacount\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:121
+- C:\xampp-new\htdocs\Myacount\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp-new\htdocs\Myacount\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\xampp-new\htdocs\Myacount\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp-new\htdocs\Myacount\webroot\index.php:40
+
+Request URL: /butsuryucenters
+Referer URL: http://localhost/Myacount/butsuryucenters
+
+
+2020-10-09 16:58:05 Error: this is debug
+2020-10-09 16:58:05 Error: 2020/10/09 16:58:05
+2020-10-09 16:58:05 Error: エラー状態
+2020-10-09 17:00:33 Error: this is debug
+2020-10-09 17:00:33 Error: [InvalidArgumentException] Invalid log level `testtest` in C:\xampp-new\htdocs\Myacount\vendor\cakephp\cakephp\src\Log\Log.php on line 363
+Stack Trace:
+- C:\xampp-new\htdocs\Myacount\vendor\cakephp\cakephp\src\Log\LogTrait.php:37
+- C:\xampp-new\htdocs\Myacount\src\Controller\ButsuryucentersController.php:44
+- C:\xampp-new\htdocs\Myacount\vendor\cakephp\cakephp\src\Controller\Controller.php:529
+- C:\xampp-new\htdocs\Myacount\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:79
+- C:\xampp-new\htdocs\Myacount\vendor\cakephp\cakephp\src\Http\BaseApplication.php:251
+- C:\xampp-new\htdocs\Myacount\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\xampp-new\htdocs\Myacount\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:156
+- C:\xampp-new\htdocs\Myacount\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp-new\htdocs\Myacount\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:164
+- C:\xampp-new\htdocs\Myacount\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp-new\htdocs\Myacount\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:166
+- C:\xampp-new\htdocs\Myacount\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp-new\htdocs\Myacount\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\xampp-new\htdocs\Myacount\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp-new\htdocs\Myacount\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:121
+- C:\xampp-new\htdocs\Myacount\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp-new\htdocs\Myacount\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\xampp-new\htdocs\Myacount\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp-new\htdocs\Myacount\webroot\index.php:40
+
+Request URL: /butsuryucenters
+Referer URL: http://localhost/Myacount/butsuryucenters
+
+
+2020-10-09 17:00:39 Error: this is debug
+2020-10-09 17:00:39 Error: [InvalidArgumentException] Invalid log level `testtest` in C:\xampp-new\htdocs\Myacount\vendor\cakephp\cakephp\src\Log\Log.php on line 363
+Stack Trace:
+- C:\xampp-new\htdocs\Myacount\vendor\cakephp\cakephp\src\Log\LogTrait.php:37
+- C:\xampp-new\htdocs\Myacount\src\Controller\ButsuryucentersController.php:44
+- C:\xampp-new\htdocs\Myacount\vendor\cakephp\cakephp\src\Controller\Controller.php:529
+- C:\xampp-new\htdocs\Myacount\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:79
+- C:\xampp-new\htdocs\Myacount\vendor\cakephp\cakephp\src\Http\BaseApplication.php:251
+- C:\xampp-new\htdocs\Myacount\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\xampp-new\htdocs\Myacount\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:156
+- C:\xampp-new\htdocs\Myacount\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp-new\htdocs\Myacount\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:164
+- C:\xampp-new\htdocs\Myacount\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp-new\htdocs\Myacount\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:166
+- C:\xampp-new\htdocs\Myacount\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp-new\htdocs\Myacount\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\xampp-new\htdocs\Myacount\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp-new\htdocs\Myacount\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:121
+- C:\xampp-new\htdocs\Myacount\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp-new\htdocs\Myacount\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\xampp-new\htdocs\Myacount\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp-new\htdocs\Myacount\webroot\index.php:40
+
+Request URL: /butsuryucenters
+Referer URL: http://localhost/Myacount/butsuryucenters
+
+
+2020-10-09 17:01:01 Error: this is debug
+2020-10-09 17:01:01 Error: hello test
+2020-10-09 17:01:01 Error: 2020/10/09 17:01:01
+2020-10-09 17:01:01 Error: エラー状態
+2020-10-09 17:01:53 Error: this is debug
+2020-10-09 17:01:53 Error: hello test
+2020-10-09 17:01:53 Error: 2020/10/09 17:01:53
+2020-10-09 17:01:53 Error: エラー状態
+2020-10-09 17:01:58 Error: this is debug
+2020-10-09 17:01:58 Error: hello test
+2020-10-09 17:01:58 Error: 2020/10/09 17:01:58
+2020-10-09 17:01:58 Error: エラー状態
+2020-10-09 17:02:01 Error: this is debug
+2020-10-09 17:02:01 Error: hello test
+2020-10-09 17:02:01 Error: 2020/10/09 17:02:01
+2020-10-09 17:02:01 Error: エラー状態
+2020-10-09 17:02:48 Error: this is debug
+2020-10-09 17:02:48 Error: hello test
+2020-10-09 17:02:48 Error: 2020/10/09 17:02:48
+2020-10-09 17:02:48 Error: エラー状態
+2020-10-09 17:04:06 Error: this is debug
+2020-10-09 17:04:06 Error: hello test
+2020-10-09 17:04:06 Error: 2020/10/09 17:04:06
+2020-10-09 17:04:06 Error: エラー状態
+2020-10-09 17:04:18 Error: this is debug
+2020-10-09 17:04:27 Error: this is debug
+2020-10-09 17:04:27 Error: hello test
+2020-10-09 17:04:27 Error: 2020/10/09 17:04:27
+2020-10-09 17:04:27 Error: エラー状態
+2020-10-09 17:04:32 Error: this is debug
+2020-10-09 17:04:32 Error: hello test
+2020-10-09 17:04:32 Error: 2020/10/09 17:04:32
+2020-10-09 17:04:32 Error: エラー状態
+2020-10-09 17:04:37 Error: this is debug
+2020-10-09 17:04:37 Error: hello test
+2020-10-09 17:04:37 Error: 2020/10/09 17:04:37
+2020-10-09 17:04:37 Error: エラー状態
+2020-10-09 17:04:43 Error: this is debug
+2020-10-09 17:04:43 Error: hello test
+2020-10-09 17:04:43 Error: 2020/10/09 17:04:43
+2020-10-09 17:04:43 Error: エラー状態
+2020-10-09 17:05:03 Error: this is debug
+2020-10-09 17:05:03 Error: hello test
+2020-10-09 17:05:03 Error: 2020/10/09 17:05:03
+2020-10-09 17:05:03 Error: エラー状態

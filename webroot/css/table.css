@@ -1,0 +1,29 @@
+
+
+table thead tr{
+	border-top-width:2px;
+	border-top-style:solid;
+	border-top-color:#1798A5;
+}
+
+thead th ,td{
+    width:200px;
+}
+
+table tr th,table tr td{
+	border:solid 1px #ddd;
+}
+
+th,td{
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+}
+table tr th.hidden,table tr td.hidden{
+	display:none;
+}
+/*行色変えスクリプト用*/
+body table tbody tr.selectrow{
+	background-color:#0000FF;
+	color:#ffffff;
+}

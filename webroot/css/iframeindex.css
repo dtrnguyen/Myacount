@@ -1,0 +1,79 @@
+body{
+    background-color:rgba(0,0,0,0.07);
+}
+.iframeclass{
+    top:0;
+    float:right;
+}
+input{
+    display:block;
+    width: 250px;
+    height: 35px;
+    margin:10px;
+    border-radius: 8px;
+}
+label{
+    width:125px;
+    height: 25px;
+    margin-bottom:-10px;
+    margin-left: 10px;
+    background-color:seagreen;
+    color: white;
+    border-radius: 6px;
+    display: block;
+}
+table{
+    width:100%;
+    height: 50px;		
+    border-collapse: collapse;/*table全体的に線が表示する*/
+    text-align: center;
+    background-color:whitesmoke;
+    font-size: 20px;
+}
+th{
+    background-color:wheat;
+    height: 50px;
+    text-align: center;
+}
+td{
+    width:150px;
+    height: 50px;
+    text-align: center;
+}
+th, td {
+    border: 1px solid #ddd;/*線の色が少し薄く*/
+}
+.kensakubtn{
+    width:80px;
+    height:40px;
+    border-radius:10px;
+    background-color:brown;
+    color: white;
+    cursor:pointer;
+    margin-left:10px;
+}
+.haneibtn{
+    width:80px;
+    height:40px;
+    border-radius:10px;
+    background-color:brown;
+    color: white;
+    cursor:pointer;
+    margin-left:110px;
+    margin-top:-50px;
+
+}
+.companytel,.companyaddress,.tenpotel,.tenpoaddress{/*それぞれのカラムが表示しないため*/
+    display: none;
+}
+table tr th.hidden,table tr td.hidden{
+    display:none;
+}
+
+body table tr.selectrow{
+    background-color:yellowgreen;
+    color:#ffffff;
+}
+.footer,.menu,.shouhinID{
+    display: none;
+}

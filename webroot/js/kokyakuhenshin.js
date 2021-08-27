@@ -1,0 +1,12 @@
+document.addEventListener('DOMContentLoaded',function(){
+    $('#shouhinID',parent.document).val($('td.shouhinID').text());
+    $('#companyname',parent.document).val($('td.companyname').text());
+    $('#companytel',parent.document).val($('td.companytel').text());
+    $('#companyaddress',parent.document).val($('td.companyaddress').text());
+    $('#tenponame',parent.document).val($('td.tenponame').text());
+    $('#tenpotel',parent.document).val($('td.tenpotel').text());
+    $('#tenpoaddress',parent.document).val($('td.tenpoaddress').text());
+});
+$(document).on('click','.koshinbtn',function(){
+    alert("本当に更新しますか？");
+});

@@ -1,0 +1,113 @@
+body{
+    background-color:lightblue;
+}
+h1{
+    text-align:center;
+    color:Blue;
+}
+hr{
+    width:80%;
+}
+.container{
+    width:1200px;
+    margin: 0 auto;
+}
+.container .container-left{
+    width:800px;
+    float:left;
+}
+.container .container-right{
+    width:400px;
+    float:left;
+}
+.containerbtn{
+    margin-left: 350px;
+    padding:100px;
+}
+.kensakubtn{
+    width:90px;
+    height:45px;
+    border-radius:10px;
+    background-color:LightGreen;
+    cursor:pointer;
+    float:left;
+}
+.torokubtn{
+    width:90px;
+    height:45px;
+    border-radius:10px;
+    background-color:LightGreen;
+    float:left;
+}
+.shousaibtn{
+    width:90px;
+    height:45px;
+    border-radius:10px;
+    background-color:LightGreen;
+    cursor:pointer;
+    float:left;
+}
+.input-class{
+    border-radius:10px;
+    display:block;
+    width: 350px;
+    height: 35px;
+    margin:10px;
+}
+
+label{
+    width:350px;
+    height: 25px;
+    margin-bottom:-10px;
+    margin-left: 10px;
+    background-color:moccasin;
+    border-radius: 6px;
+    display: block;
+}
+table{	
+    border-collapse: collapse;/*table全体的に線が表示する*/
+    text-align: center;
+    background-color: beige;
+    font-size: 20px;
+    margin:0px auto;
+}
+th{
+    background-color: rgba(10,120,70,0.3);
+    width:150px;
+    height: 50px;
+    text-align: center;
+}
+td{
+    width:150px;
+    height: 50px;
+    text-align: center;
+}
+th, td {
+    border: 1px solid #ddd;/*線の色が少し薄く*/
+}
+table tr th.hidden,table tr td.hidden{
+    display:none;
+}
+body table tr.selectrow{
+    background-color:lightsteelblue;
+    color:#ffffff;
+}
+.id,.shouhinID{
+    display: none;
+}
+.komokuichiran{
+    width:100%;
+    height:40px;
+    background-color: rgba(0,0,0,0.4);
+
+}
+.kokyakukanri li a{
+    text-decoration:none;
+    color:whitesmoke;
+    
+}
+.kokyakukanri li{
+    margin: auto 0;
+    list-style-type:none;
+
+}
